@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Gas Prices in Dallas County
+subtitle: Prices in Dallas County are highre in low income neighborhoods
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
+This project looks at the relationship between gasprices in 95 Dallas County zip codes and the average household income of each neighborhood. Gas prices tend to be 5-25 cents more expensive in low income neighborhoods, which can negatively impact residents in a variety of ways. 
 **Here is some bold text**
 
 ## Here is a secondary heading
